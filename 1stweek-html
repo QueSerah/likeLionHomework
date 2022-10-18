@@ -17,9 +17,15 @@
         </p>
       </section>
       <section>
-          <h2>EXPERIENCE</h2>
-          <p class="title-text">Awesome Programming Company</p>
-          <p class="year-text">2020 - Now</p>
+      <h2>EXPERIENCE</h2>
+        <div class="float-wrap">
+          <p class="title-text">Mental Health Specialist</p>
+          <p class="year-text">June 2016 - July 2022</p>
+        </div>
+        <p class="desc-text">UC Army</p>
+        <p class="desc-subtext">Collaborated with Psychiatrists, Psychologists, and Social Workers as a part of an interdisciplinary team to provide mental health counseling and services to patients.
+          Participated in various environmental training to achieve professionalism, leadership, teamwork, and motivation in any situation.
+          Participated in many classes with various topics causing a lot of social conflicts not only in the military but also outside of the military.</p>
       </section>
     </div>
     <footer>
