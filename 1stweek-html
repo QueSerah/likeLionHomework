@@ -28,6 +28,12 @@
           Participated in many classes with various topics causing a lot of social conflicts not only in the military but also outside of the military.</p>
       </section>
     </div>
+    <div class="sns-wrap">
+        <a href="http://facebook.com"><img class="sns-img" src="images/facebook.png"></a>
+        <img class="sns-img" src="images/twitter.png">
+        <img class="sns-img" src="images/linked-in.png">
+        <img class="sns-img" src="images/insta.png">
+      </div>
     <footer>
       <p>Copyright CODE LION All rights reserved.</p>
     </footer>
